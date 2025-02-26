@@ -11,37 +11,24 @@
 </p>
 <br>
 
-##  Table of Contents
+## Table of Contents
 
 - [ Overview](#-overview)
-- [ Features](#-features)
 - [ Project Structure](#-project-structure)
-  - [ Project Index](#-project-index)
 - [ Getting Started](#-getting-started)
   - [ Prerequisites](#-prerequisites)
   - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
 - [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
 
 ---
 
-##  Overview
+## Overview
 
-<code>❯ REPLACE-ME</code>
-
----
-
-##  Features
-
-<code>❯ REPLACE-ME</code>
+<code>This is a programming assignment in which you will apply AI search/optimization techniques to a 3D Travelling-Salesman Problem (TSP). Conceptually speaking, the space of traveling is a set of “cities” located on some grid points with (x, y, z) locations in which my AI agent has to travel. Your agent can travel from any city to any city, and the distance between two cities is defined as the Euclidean distance between the two grid locations.</code>
 
 ---
 
-##  Project Structure
+## Project Structure
 
 ```sh
 └── AI-powered-TSP-using-GA/
@@ -53,93 +40,37 @@
     └── tsp_final.py
 ```
 
+## Getting Started
 
-###  Project Index
-<details open>
-	<summary><b><code>AI-POWERED-TSP-USING-GA/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/ak736/AI-powered-TSP-using-GA/blob/master/homework.py'>homework.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/ak736/AI-powered-TSP-using-GA/blob/master/tsp.py'>tsp.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/ak736/AI-powered-TSP-using-GA/blob/master/tsp_final.py'>tsp_final.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/ak736/AI-powered-TSP-using-GA/blob/master/input.txt'>input.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/ak736/AI-powered-TSP-using-GA/blob/master/input_list.txt'>input_list.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/ak736/AI-powered-TSP-using-GA/blob/master/output.txt'>output.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
-
----
-##  Getting Started
-
-###  Prerequisites
+### Prerequisites
 
 Before getting started with AI-powered-TSP-using-GA, ensure your runtime environment meets the following requirements:
 
 - **Programming Language:** Python
 
-
-###  Installation
+### Installation
 
 Install AI-powered-TSP-using-GA using one of the following methods:
 
 **Build from source:**
 
 1. Clone the AI-powered-TSP-using-GA repository:
+
 ```sh
 ❯ git clone https://github.com/ak736/AI-powered-TSP-using-GA
 ```
 
 2. Navigate to the project directory:
+
 ```sh
 ❯ cd AI-powered-TSP-using-GA
 ```
 
-3. Install the project dependencies:
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-
-
-###  Usage
-Run AI-powered-TSP-using-GA using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+3. Install the project dependencies.
 
 ---
 
-##  Contributing
+## Contributing
 
 - **💬 [Join the Discussions](https://github.com/ak736/AI-powered-TSP-using-GA/discussions)**: Share your insights, provide feedback, or ask questions.
 - **🐛 [Report Issues](https://github.com/ak736/AI-powered-TSP-using-GA/issues)**: Submit bugs found or log feature requests for the `AI-powered-TSP-using-GA` project.
@@ -171,25 +102,4 @@ echo 'INSERT-TEST-COMMAND-HERE'
 </details>
 
 <details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/ak736/AI-powered-TSP-using-GA/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=ak736/AI-powered-TSP-using-GA">
-   </a>
-</p>
 </details>
-
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
